@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkunasap
+- 👋 Hi, I’m Micheal Nkuna
 - 👀 I’m interested in ... development 
 - 🌱 I’m currently learning ...fullstack
 - 💞️ I’m looking to collaborate on ...
